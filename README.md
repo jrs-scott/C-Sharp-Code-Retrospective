@@ -172,3 +172,4 @@ Working on this MVC application was a valuable learning experience. During the t
 * Worked with an open source API for the first time
 * Kept myself on track to complete tasks within a short timeframe
 * Refined my ability to research new technologies and evaluate which is best suited for the application
+* Version control via Visual Studio
